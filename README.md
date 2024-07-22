@@ -1590,23 +1590,6 @@ plt.show()
 
 </div>
 
-<div class="cell code">
 
-``` python
-```
 
-</div>
 
-<div class="cell code">
-
-``` python
-```
-
-</div>
-
-<div class="cell code">
-
-``` python
-```
-
-</div>
