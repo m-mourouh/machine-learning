@@ -1580,12 +1580,7 @@ plt.show()
 
 </div>
 
-<div class="output stream stderr">
 
-    C:\Users\mmourouh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
-      warnings.warn(
-
-</div>
 
 <div class="output display_data">
 
